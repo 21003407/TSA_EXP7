@@ -1,8 +1,8 @@
 # Ex.No: 07                                       AUTO REGRESSIVE MODEL
 ### Date: 
 ```
-Developed by: G Venkata Pavan Kumar
-Reg No: 212221240013
+Developed by: A joans jay authers
+Reg No: 212221240019
 ```
 ### AIM:
 To Implementat an Auto Regressive Model using Python
